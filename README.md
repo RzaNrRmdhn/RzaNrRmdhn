@@ -1,5 +1,8 @@
 <h1>Heyyooo!</h1>
-<br>-- I still learn about dart, html, css, javascript, java, Kotlin, C++ and C#...</br>
+## Still Learn
+  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+  ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 <br></br>
 --Once Here!!!!...
 
