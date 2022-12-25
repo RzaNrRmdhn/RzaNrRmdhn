@@ -1,6 +1,4 @@
 <h1>Heyyooo!</h1>
-
-<br>-- My Name is Reza Nur Ramadhan, and you can call me Reza Or Zanur...</br>
 <br>-- I still learn about dart, html, css, javascript, java, Kotlin, C++ and C#...</br>
 <br></br>
 --Once Here!!!!...
