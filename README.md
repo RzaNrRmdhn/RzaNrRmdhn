@@ -19,7 +19,7 @@ const RezaNur = {
     askMeAbout: ["Junior Web Dev", "Junior Mobile Dev","Digital Art"],
     technologies: {
         FrontEnd: {
-            Javascript: ["Rect"],
+            Javascript: ["React"],
             CSS3: ["BootStrap","Tailwind"]
         },
         BackEnd: {
