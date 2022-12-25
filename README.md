@@ -12,4 +12,6 @@
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RzaNrRmdhn&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RzaNrRmdhn&layout=compact&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RzaNrRmdhn&theme=gruvbox" />
 
