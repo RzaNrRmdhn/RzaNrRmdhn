@@ -22,7 +22,7 @@
 ```javascript
 const RezaNur = {
     pronouns: "He" | "Him",
-    code: ["C++","C#","Java","Python","HTML","CSS","Javascript","Kotlin","Dart","Flutter"],
+    code: ["C++","Java","Python","HTML","CSS","Javascript","Kotlin","Dart","Flutter"],
     askMeAbout: ["Junior Web Dev", "Junior Mobile Dev","Digital Art"],
     technologies: {
         FrontEnd: {
