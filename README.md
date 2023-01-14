@@ -30,7 +30,7 @@ const RezaNur = {
             CSS3: ["BootStrap","Tailwind"]
         },
         BackEnd: {
-            Javascript: ["Node", "Hapi"]
+            Javascript: ["Hapi"]
         },
         MobileApp: {
             Flutter: ["Android Development"],
