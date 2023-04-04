@@ -3,7 +3,6 @@
     > Welcome to My Profile
 
 ## You can reach me
-[![Facebook Badge](https://img.shields.io/badge/-Rezza_N_R-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://web.facebook.com/reza.n.ramadhan.3/)](https://web.facebook.com/reza.n.ramadhan.3/)
 [![Linkedin Badge](https://img.shields.io/badge/-Reza_Nur_Ramadhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reza-nur-ramadhan-802a50223/)](https://www.linkedin.com/in/reza-nur-ramadhan-802a50223/)
 [![instagram Badge](https://img.shields.io/badge/-Rezza_Nur_R-black?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/rzanrrmdhn/)](https://www.instagram.com/rzanrrmdhn/)
 
