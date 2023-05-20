@@ -25,10 +25,6 @@ const RezaNur = {
     code: ["C++","Java","Python","HTML","CSS","Javascript","Kotlin","Dart","Flutter"],
     askMeAbout: ["Junior Web Dev", "Junior Mobile Dev","Digital Art"],
     technologies: {
-        FrontEnd: {
-            Javascript: ["React"],
-            CSS3: ["BootStrap","Tailwind"]
-        },
         BackEnd: {
             Javascript: ["Hapi"]
         },
