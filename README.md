@@ -1,5 +1,4 @@
-# Heyyooo!
-## One In A Million
+# Heyyooo! One In A Million
 ## Too Shy to Say
     > Welcome to My Profile
 
