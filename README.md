@@ -1,6 +1,4 @@
-# Heyyooo! One In A Million
-## Too Shy to Say
-    > Welcome to My Profile
+## Welcome to My Profile
 
 ## Still Learn
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java)
@@ -15,11 +13,10 @@
   
 ## ⚡ GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RzaNrRmdhn&show_icons=true&count_private=true&theme=gruvbox" />
+<br>
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=RzaNrRmdhn&layout=compact&count_private=true&theme=gruvbox" />
+<br>
 <img src= "https://github-readme-streak-stats.herokuapp.com?user=RzaNrRmdhn&theme=dark&hide_border=true" width= 400>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RzaNrRmdhn.RzaNrRmdhn)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RzaNrRmdhn&theme=discord&no-frame=true&no-bg=false&margin-w=4)
