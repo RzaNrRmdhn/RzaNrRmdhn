@@ -2,10 +2,6 @@
 ## Too Shy to Say
     > Welcome to My Profile
 
-## You can reach me
-[![Linkedin Badge](https://img.shields.io/badge/-Reza_Nur_Ramadhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reza-nur-ramadhan-802a50223/)](https://www.linkedin.com/in/reza-nur-ramadhan-802a50223/)
-[![instagram Badge](https://img.shields.io/badge/-Rezza_Nur_R-black?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/rzanrrmdhn/)](https://www.instagram.com/rzanrrmdhn/)
-
 ## Still Learn
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java)
   ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
@@ -17,29 +13,6 @@
   ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart)
   ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter)
   
-## About Me
-```javascript
-const RezaNur = {
-    pronouns: "He" | "Him",
-    code: ["C++","Java","Python","HTML","CSS","Javascript","Kotlin","Dart","Flutter"],
-    askMeAbout: ["Junior Web Dev", "Junior Mobile Dev","Digital Art"],
-    technologies: {
-        BackEnd: {
-            Javascript: ["Hapi"]
-        },
-        MobileApp: {
-            Flutter: ["Android Development"],
-            Java/Kotlin: ["Android Development"]
-        },
-        DigitalArt: ["Medibang Paint Pro"]
-    },
-    currentFocus: "Only Focus to get you ><"
-};
-const TWICE = "ONCE HERE!!!"
-```
-   <!-- architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"], -->
-
-<!-- <a href=#><img src="wallpaperflare.com_wallpaper (6).jpg"></a> -->
 ## ⚡ GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RzaNrRmdhn&show_icons=true&count_private=true&theme=gruvbox" />
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=RzaNrRmdhn&layout=compact&count_private=true&theme=gruvbox" />
